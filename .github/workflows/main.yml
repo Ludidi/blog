@@ -50,7 +50,7 @@ jobs:
           # scp参数
           ARGS: "-avzr --delete"
           # 源目录，编译后生成的文件目录
-          SOURCE: "./docs/.vuepress/dist"
+          SOURCE: "./docs/.vuepress/dist/"
           # 服务器ip
           REMOTE_HOST: "118.31.75.55"
           # 用户
