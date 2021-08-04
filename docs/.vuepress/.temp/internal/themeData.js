@@ -1,5 +1,5 @@
 export const themeData = {
-  "repo": "https://github.com/Ludidi",
+  "repo": "https://github.com/Ludidi/blog",
   "navbar": [
     {
       "text": "首页",
@@ -48,4 +48,17 @@ export const themeData = {
   "backToHome": "Take me home",
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

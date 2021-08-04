@@ -9,7 +9,7 @@ module.exports = {
   description: 'ludd link 博客 个人 学习',
 
   themeConfig: {
-    repo: 'https://github.com/Ludidi',
+    repo: 'https://github.com/Ludidi/blog',
     navbar,
     sidebar,
   },
