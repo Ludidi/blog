@@ -1,10 +1,6 @@
 module.exports = [
   {
-    text: '介绍',
+    text: '首页',
     link: '/',
-  },
-  {
-    text: '测试',
-    children: ['/test/README.md', '/test/config.md'],
   },
 ];
