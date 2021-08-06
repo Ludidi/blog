@@ -14,7 +14,7 @@ onMounted(() => {
     clientSecret: 'e959daa45334b3063d3db4c6ab3c312156bc203b',
     repo: 'blog',
     owner: 'ludidi',
-    admin: ['ludd'],
+    admin: ['ludidi'],
     id: location.pathname, // Ensure uniqueness and length less than 50
     distractionFreeMode: false, // Facebook-like distraction free mode
   });
