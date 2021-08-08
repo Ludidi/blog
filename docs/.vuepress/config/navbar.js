@@ -1,7 +1,7 @@
 module.exports = [
   {
     text: '博客',
-    link: '/',
+    link: '/blog',
   },
   {
     text: '关于',
