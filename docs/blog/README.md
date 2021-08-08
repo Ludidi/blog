@@ -12,8 +12,8 @@
   - [VNode 虚拟 DOM](/blog/vue/vnode.md)(TODO)
 - 小程序
   - [wxs 探索](/blog/wx/wxs.md)(TODO)
-- 小程序
-  - [wxs 探索](/blog/wx/wxs.md)
+- 性能
+  - [重排和回流](/blog/performance/render.md)(TODO)
 - VuePress
   - [自动化发布](/blog/guid/deploy.md)(TODO)
   - [评论插件](/blog/guid/gitalk.md)(TODO)
