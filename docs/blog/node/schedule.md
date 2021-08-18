@@ -64,9 +64,6 @@ const job = schedule.scheduleJob(date, function () {
 
 ## 题外话 - 钉钉自动化打卡
 
-https://github.com/node-schedule/node-schedule
-https://cloud.tencent.com/developer/article/1612643
-
 自从公司开始打卡了之后，就经常忘记下班打卡，于是便有了钉钉自动化打卡的想法 😂
 
 先大致讲一下实现思路：
