@@ -93,9 +93,11 @@ const job = schedule.scheduleJob(date, function () {
 const schedule = require('node-schedule');
 const http = require('http');
 
+const KEY = '';
+
 const sendBarkMessage = (message) => {
   const req = http.request(
-    `http://api.day.app/bQFWyfTbjDdkgbd8V3gf4F/${message}?sound=glass&url=dingtalk://snowdreams1006.tech/`,
+    `http://api.day.app/${KEY}/${message}?sound=glass&url=dingtalk://snowdreams1006.tech/`,
     (res) => {
       res.setEncoding('utf8');
       res.on('data', (chunk) => {
