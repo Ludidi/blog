@@ -5,6 +5,10 @@ module.exports = {
       children: ['/blog/css/bfc.md', '/blog/css/var.md'],
     },
     {
+      text: 'JavaScript相关',
+      children: ['/blog/js/disorder-object.md'],
+    },
+    {
       text: 'Vue相关',
       children: ['/blog/vue/proxy.md', '/blog/vue/keep-alive.md', '/blog/vue/nextTick.md', '/blog/vue/vnode.md'],
     },
