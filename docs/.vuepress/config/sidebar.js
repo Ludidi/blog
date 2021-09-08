@@ -25,8 +25,8 @@ module.exports = {
       children: ['/blog/performance/render.md'],
     },
     {
-      text: 'VuePress',
-      children: ['/blog/guide/deploy.md', '/blog/guide/gitalk.md'],
+      text: '监控',
+      children: ['/blog/monitor/sentry.md'],
     },
   ],
 };

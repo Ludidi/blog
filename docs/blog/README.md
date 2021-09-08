@@ -1,19 +1,15 @@
-# 导航
-
-搭建完成，后续写入。。。
+# 快捷导航
 
 - CSS 相关
   - [BFC](/blog/css/bfc.md)
-  - [var 变量](/blog/css/var.md)(TODO)
+- JavaScript 相关
+  - [无序对象](/blog/js/disorder-object.md)
 - Vue 相关
-  - [双向绑定](/blog/vue/proxy.md)(TODO)
-  - [keep-alive](/blog/vue/keep-alive.md)(TODO)
-  - [nextTick 源码分析](/blog/vue/nextTick.md)(TODO)
-  - [VNode 虚拟 DOM](/blog/vue/vnode.md)(TODO)
+  - [nextTick 原理](/blog/vue/nextTick.md)
 - 小程序
-  - [wxs 探索](/blog/wx/wxs.md)(TODO)
-- 性能
-  - [重排和回流](/blog/performance/render.md)(TODO)
-- VuePress
-  - [自动化发布](/blog/guid/deploy.md)(TODO)
-  - [评论插件](/blog/guid/gitalk.md)(TODO)
+  - [wxs 探索](/blog/wx/wxs.md)
+- Node
+  - [PM2 常用命令](/blog/node/pm2.md)
+  - [定时任务](/blog/node/schedule.md)
+- 监控
+  - [异常监控系统之 Sentry](/blog/monitor/sentry.md)
