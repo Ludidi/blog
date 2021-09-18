@@ -9,6 +9,10 @@ module.exports = {
       children: ['/blog/js/disorder-object.md'],
     },
     {
+      text: 'TypeScript',
+      children: ['/blog/ts/types-or-interfaces.md'],
+    },
+    {
       text: 'Vue相关',
       children: ['/blog/vue/proxy.md', '/blog/vue/keep-alive.md', '/blog/vue/nextTick.md', '/blog/vue/vnode.md'],
     },

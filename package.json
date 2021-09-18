@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "serve": "yarn dev",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
