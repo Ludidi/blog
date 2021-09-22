@@ -1,10 +1,13 @@
 # 快捷导航
 
-- CSS 相关
+- CSS
   - [BFC](/blog/css/bfc.md)
-- JavaScript 相关
+- JavaScript
   - [无序对象](/blog/js/disorder-object.md)
-- Vue 相关
+- TypeScript
+  - [type 与 interface](/blog/ts/types-or-interfaces.md)
+  - [重载](/blog/ts/overload.md)
+- Vue
   - [nextTick 原理](/blog/vue/nextTick.md)
 - 小程序
   - [wxs 探索](/blog/wx/wxs.md)

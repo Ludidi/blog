@@ -1,19 +1,19 @@
 module.exports = {
   '/blog': [
     {
-      text: 'CSS相关',
+      text: 'CSS',
       children: ['/blog/css/bfc.md', '/blog/css/var.md'],
     },
     {
-      text: 'JavaScript相关',
+      text: 'JavaScript',
       children: ['/blog/js/disorder-object.md'],
     },
     {
       text: 'TypeScript',
-      children: ['/blog/ts/types-or-interfaces.md'],
+      children: ['/blog/ts/types-or-interfaces.md', '/blog/ts/overload.md'],
     },
     {
-      text: 'Vue相关',
+      text: 'Vue',
       children: ['/blog/vue/proxy.md', '/blog/vue/keep-alive.md', '/blog/vue/nextTick.md', '/blog/vue/vnode.md'],
     },
     {
