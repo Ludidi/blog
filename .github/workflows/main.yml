@@ -34,12 +34,12 @@ jobs:
           node-version: 14.17.0
       
       # 安装依赖
-      - name: npm install
-        run: npm install
+      - name: yarn install
+        run: yarn install
         
       # 打包
-      - name: npm build
-        run: npm run build
+      - name: yarn build
+        run: yarn run build
         
       # 部署到阿里云
       - name: deploy to aliyun
