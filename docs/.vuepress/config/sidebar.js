@@ -2,11 +2,16 @@ module.exports = {
   '/blog': [
     {
       text: 'CSS',
-      children: ['/blog/css/bfc.md', '/blog/css/var.md'],
+      children: ['/blog/css/bfc.md', '/blog/css/reduced-motion.md', '/blog/css/matirx.md'],
     },
     {
       text: 'JavaScript',
-      children: ['/blog/js/disorder-object.md'],
+      children: [
+        '/blog/js/disorder-object.md',
+        '/blog/js/defineProperty.md',
+        '/blog/js/proxy.md',
+        '/blog/js/extends.md',
+      ],
     },
     {
       text: 'TypeScript',

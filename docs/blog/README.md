@@ -2,8 +2,13 @@
 
 - CSS
   - [BFC](/blog/css/bfc.md)
+  - [渐弱页面](/blog/css/reduced-motion.md)
+  - [Matirx 矩阵](/blog/css/matirx.md)
 - JavaScript
   - [无序对象](/blog/js/disorder-object.md)
+  - [defineProperty](/blog/js/defineProperty.md)
+  - [Proxy](/blog/js/proxy.md)
+  - [继承](/blog/js/extends.md)
 - TypeScript
   - [type 与 interface](/blog/ts/types-or-interfaces.md)
   - [重载](/blog/ts/overload.md)
