@@ -19,7 +19,19 @@ module.exports = {
     },
     {
       text: 'Vue',
-      children: ['/blog/vue/proxy.md', '/blog/vue/keep-alive.md', '/blog/vue/nextTick.md', '/blog/vue/vnode.md'],
+      children: [
+        '/blog/vue/proxy.md',
+        '/blog/vue/keep-alive.md',
+        '/blog/vue/nextTick.md',
+        '/blog/vue/vnode.md',
+        '/blog/vue/computed.md',
+        '/blog/vue/watch.md',
+        '/blog/vue/template.md',
+      ],
+    },
+    {
+      text: 'Vue3',
+      children: ['/blog/vue3/contrast.md'],
     },
     {
       text: '小程序',
@@ -31,11 +43,16 @@ module.exports = {
     },
     {
       text: '性能',
-      children: ['/blog/performance/render.md'],
+      children: ['/blog/performance/repaint.md'],
     },
     {
       text: '监控',
       children: ['/blog/monitor/sentry.md'],
+    },
+  ],
+  '/algorithm': [
+    {
+      children: ['/algorithm/index.md', '/algorithm/bit-operation.md', '/algorithm/lru.md'],
     },
   ],
 };

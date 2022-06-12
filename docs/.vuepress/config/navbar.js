@@ -4,6 +4,10 @@ module.exports = [
     link: '/blog',
   },
   {
+    text: '算法',
+    link: '/algorithm',
+  },
+  {
     text: '关于',
     link: '/about',
   },

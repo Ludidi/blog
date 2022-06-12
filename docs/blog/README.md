@@ -1,23 +1,8 @@
-# 快捷导航
+---
+editLinkPattern: false
+contributors: false
+lastUpdated: false
+editLink: false
+---
 
-- CSS
-  - [BFC](/blog/css/bfc.md)
-  - [渐弱页面](/blog/css/reduced-motion.md)
-  - [Matirx 矩阵](/blog/css/matirx.md)
-- JavaScript
-  - [无序对象](/blog/js/disorder-object.md)
-  - [defineProperty](/blog/js/defineProperty.md)
-  - [Proxy](/blog/js/proxy.md)
-  - [继承](/blog/js/extends.md)
-- TypeScript
-  - [type 与 interface](/blog/ts/types-or-interfaces.md)
-  - [重载](/blog/ts/overload.md)
-- Vue
-  - [nextTick 原理](/blog/vue/nextTick.md)
-- 小程序
-  - [wxs 探索](/blog/wx/wxs.md)
-- Node
-  - [PM2 常用命令](/blog/node/pm2.md)
-  - [定时任务](/blog/node/schedule.md)
-- 监控
-  - [异常监控系统之 Sentry](/blog/monitor/sentry.md)
+空空如也～
